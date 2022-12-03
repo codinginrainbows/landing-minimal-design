@@ -6,7 +6,7 @@ form {
 }
 
 .form-container {
-    margin: 5rem 0;
+    margin: 2rem 0;
 }
 
 .form-content {
@@ -56,6 +56,12 @@ button:hover {
     width: 100%;
     border: 1px solid #000;
 }
+
+.container {
+    min-width: 600px;
+    max-width: 900px;
+}
+
 
 @media (max-width: 1200px) {
     .form-container {

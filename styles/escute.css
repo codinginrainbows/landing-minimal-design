@@ -1,4 +1,7 @@
-
+.container {
+    min-width: 600px;
+    max-width: 900px;
+}
 
 iframe {
     width: 250px;
