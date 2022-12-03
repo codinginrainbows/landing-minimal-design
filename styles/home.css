@@ -51,6 +51,10 @@
     height: 380px;
 }
 
+.rights {
+    padding: 2rem 0;
+}
+
 @media (max-width: 800px) {
     .review {
         flex-direction: column;
