@@ -9,7 +9,8 @@ table {
   border-collapse: collapse;
   width: 100%;
   margin: 1rem 0;
-  background-color: #a9ddd620;
+  /* background-color: #a9ddd620; */
+  background-color: #F9F7F5;
 }
 
 td, th {
