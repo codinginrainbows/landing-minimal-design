@@ -12,6 +12,8 @@
 .texto {
     font-size: 1.5rem;
     margin: 2rem 0;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .container {
@@ -65,5 +67,9 @@
     }
     .texto {
         padding: 0 2rem;
+    }
+    .container {
+        min-width: 200px;
+        max-width: 500px;
     }
 }
