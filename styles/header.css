@@ -77,4 +77,15 @@ ul li a:hover {
         grid-gap: 0;
         margin: 1rem 0;
     }
+
+    ul {
+        /* gap: 0.5rem; */
+        margin: 1rem 0;
+    }
+
+    header {
+        padding: 0.5rem 0.5rem;
+        justify-content: center;
+        flex-direction: column;
+    }
 }
