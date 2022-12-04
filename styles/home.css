@@ -59,17 +59,34 @@
 }
 
 @media (max-width: 800px) {
+    .catalogo h1 {
+        font-size: 4rem;
+    }
+
     .review {
         flex-direction: column;
     }
+    
     .review-text {
         width: 90%;
     }
+
+    .review-text h1 {
+        font-size: 40px;
+        margin-bottom: 1.5rem;
+    }
+
+    .review-text p {
+        font-size: 16px;
+    }
+    
     .texto {
         padding: 0 2rem;
+        font-size: 18px;
     }
+    
     .container {
         min-width: 200px;
-        max-width: 500px;
+        max-width: 740px;
     }
 }
