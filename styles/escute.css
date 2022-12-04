@@ -1,9 +1,23 @@
 .container {
     min-width: 600px;
     max-width: 900px;
+
+}
+
+.listen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    padding-bottom: 4rem;
+}
+
+.video {
+    padding: 1rem 0;
 }
 
 iframe {
-    width: 250px;
-    height: 250px;
+    width: 450px;
+    height: 450px;
 }
