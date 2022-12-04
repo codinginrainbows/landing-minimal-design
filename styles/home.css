@@ -16,7 +16,7 @@
 
 .container {
     min-width: 600px;
-    max-width: 900px;
+    max-width: 850px;
 }
 
 .review {
@@ -34,6 +34,7 @@
     height: 400px;
     text-align: justify;
     text-justify: inter-word;
+    padding-right: 1rem;
 }
 
 .review-text h1 {
@@ -47,8 +48,8 @@
 }
 
 .review-img2 {
-    width: 400px;
-    height: 380px;
+    width: 380px;
+    height: 360px;
 }
 
 .rights {
